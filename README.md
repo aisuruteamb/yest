@@ -1,2 +1,2 @@
-# yest
-gitの練習
+# gitの練習
+ここでGITHUBの練習をしよう
